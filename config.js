@@ -55,14 +55,14 @@ global.owner = [
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6281292325798']
+global.prems = ['6281292325798']
+global.nomorbot = '6289677364481'
+global.nameown = 'Rz Store'
+global.nomorown = '6281292325798'
+global.nomorown1 = '081292325798'
+global.nomorown2 = ''
+global.nomorwa = '081292325798'
 global.limitawal = {
 
     premium: "Infinity",
